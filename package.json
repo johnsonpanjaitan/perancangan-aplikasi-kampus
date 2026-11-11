@@ -1,0 +1,11 @@
+{
+  "name": "aplikasi-kampus",
+  "version": "1.0.0",
+  "description": "Project CI/CD sederhana",
+  "main": "app.js",
+  "scripts": {
+    "build": "echo Build Berhasil",
+    "test": "node test.js",
+    "start": "node app.js"
+  }
+}
